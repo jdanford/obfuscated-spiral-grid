@@ -1,4 +1,4 @@
-## spiral_grid.c
+# spiral_grid.c
 A tiny obfuscated C program that prints a neat spiral grid of numbers
 
 ## Usage 🌀
